@@ -114,7 +114,7 @@ Begin by going to [https://github.com/EEOB-BioData/Git-Markdown-Exercise](https:
 
 This will bring you to a page that will allow you to compare across changes. Since you wish to submit changes on a different fork, then click on the hyperlinked phrase **compare across forks**.
 
-Then change the head fork to your own copy of the repository
+Then change the head fork to your own copy of the repository. Note that as of Feb. 2021, the primary branch of this repository is called `main` and not `master`. So your pull request will be slightly different than what's shown in the screenshots below.
 
 ![](images/screen-shot-pull-req.png)
 
