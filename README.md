@@ -71,6 +71,7 @@ Although you can write whatever you like, here are some things that you may cons
 #### Helpful Markdown resources
 
 * Freely available editors that make writing in Markdown pretty easy
+    * Windows, Linux, Mac OSX: [Visual Studio Code](https://code.visualstudio.com/)
     * Windows and Linux: [REMARKABLE](https://remarkableapp.github.io/)
     * Mac OSX: [MacDown](http://macdown.uranusjr.com/)
 * Online Markdown editors:
