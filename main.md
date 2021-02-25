@@ -1,6 +1,6 @@
 # Main 
 ## Page for Git Markdown Exercise
-___
+
 
 This exercise will be helpful for trying out markdown skills before working on the UNIX assignment. 
 
@@ -14,8 +14,12 @@ Some things I've learned how to do:
 
 * **_Bolded Italics_**
 
-* 'Code Highlighting'
+* `Code Highlighting`
 
 
-'''I can also create a large code block
-It looks like this'''
+```I can also create a large code block
+It looks like this```
+
+One last thing:
+	I'm trying to see if tabs show up
+
